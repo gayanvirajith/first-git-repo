@@ -2,5 +2,5 @@
 # first-git-repo
 
 
-This is my first git repository and my name is dimuthu
+This is my first git repository and my name is gayan
 
